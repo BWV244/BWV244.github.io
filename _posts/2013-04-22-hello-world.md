@@ -8,3 +8,6 @@ redirect_from:
   - /2020/07/18/
 ---
 Hello World! This is the beginning of this theme.
+$$
+\leq
+$$
